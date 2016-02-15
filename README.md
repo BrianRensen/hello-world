@@ -1,4 +1,4 @@
 # hello-world
 hello world!
 
-Hi i am Brian
+Hi, i am Brian Rensen
